@@ -12,7 +12,7 @@
 
 Склонируйте проект с помощью команды:
 ```sh
-$ git clone https://github.com/gooodforeal/TRPP_project
+$ git clone https://github.com/gooodforeal/navigator-telegram-bot
 ```
 ## Разработка
 
