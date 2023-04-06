@@ -1,0 +1,5 @@
+TOKEN = "6266859159:AAEbPw7KtK5qy2gliMkZ1EazFO4uOMCeIDg"
+host = "localhost"
+user = "root"
+password = "2569"
+db_name = "trpp_db"
